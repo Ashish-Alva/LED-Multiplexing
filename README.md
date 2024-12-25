@@ -29,7 +29,7 @@ Using MAX7219 library to generate different rolling LED patterns such as numbers
 
 # Circuit Diagram:
      
-<img width="311" alt="Screenshot 2024-12-25 114533" src="https://github.com/user-attachments/assets/1e1c77e2-8080-4386-8566-b416f6117546" />
+<img width="50%" align-item="center" alt="Screenshot 2024-12-25 114533" src="https://github.com/user-attachments/assets/1e1c77e2-8080-4386-8566-b416f6117546" />
 <img width="313" alt="Screenshot 2024-12-25 114550" src="https://github.com/user-attachments/assets/0f7b1c64-072e-4754-a640-1b380813988b" />
 <img width="185" alt="Screenshot 2024-12-25 114605" src="https://github.com/user-attachments/assets/83a5f1e5-4f16-40a5-a7a4-6199c13e08b6" />
 <img width="197" alt="Screenshot 2024-12-25 114620" src="https://github.com/user-attachments/assets/80adbd47-4596-41a7-8f3b-ee1eeff47d47" />
