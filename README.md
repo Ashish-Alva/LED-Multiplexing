@@ -69,3 +69,6 @@ Using MAX7219 library to generate different rolling LED patterns such as numbers
      		myDisplay.displayReset();
      	}
      }
+# Conclusion
+The experiment proved that the MAX7219 is a great option for LED multiplexing,
+offering a practical and economical solution for controlling numerous LEDs simultaneously with constant brightness and a more straightforward circuit design. Multiplexing helps us to transfer our messages over a shared channel. LED multiplexing has a number of benefits, such as lower power consumption, easier circuit design, and the capacity to show intricate patterns and animations with fewer microcontroller pins or drivers. As a result, it is especially well suited for uses where a large number of LEDs must be managed, such as in wearable technology, LED displays, signage, lighting systems, and other similar applications
