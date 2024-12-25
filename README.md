@@ -12,13 +12,13 @@ Using MAX7219 library to generate different rolling LED patterns such as numbers
 5.	DHT11 sensor
 
 # Procedure:
-# 1.Input connectors:
+## 1.Input connectors:
      Connect the vcc(for external power supply) to the chip pin.
      Connect ground pin(GND) to arduino.
      Connect The Data pin(DIN).
      Connect Load(CS/Load) to any pin of the microcontroller.
      Connect clock pin(CLK) to any pin on the microcontroller.
-# 2.Output connectors:
+## 2.Output connectors:
      VCC connects to 5V on the next module.
      GCC connects to GND on the next module.
      DOUT is Data Out and connects to the DIN pin of the next module.
