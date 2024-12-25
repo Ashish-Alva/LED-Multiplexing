@@ -28,7 +28,7 @@ Using MAX7219 library to generate different rolling LED patterns such as numbers
 ## 4. Library Installation: MD_MAX72XX by MajicDesigns
 
 # Circuit Diagram:
-     ![image](https://github.com/user-attachments/assets/d0f8cda4-79cc-43cc-bb27-b2852a2b2387)
+     
 
 
 
